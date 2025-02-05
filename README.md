@@ -1,7 +1,7 @@
 # Stock Management System
 
 ## Overview
-The Stock Management System is a Java-based application designed to manage stock inventories for businesses. It allows users to add, update, remove, and view stock items. Additionally, it offers basic features for tracking inventory levels and generating reports.
+The Stock Management System is a Java-based application designed to manage stock inventories for businesses. It allows users to add, update, remove, and view stock items. Additionally, it offers basic features for tracking inventory levels and generating report.
 
 ## Features
 - **Add new stock items**
