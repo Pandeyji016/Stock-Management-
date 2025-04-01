@@ -11,5 +11,7 @@ The Stock Management System is a Java-based application designed to manage stock
 - **Search for items by name or ID**
 - **Generate reports** (stock summary, low stock alerts, etc.)
 
+- ..
+
 
 
